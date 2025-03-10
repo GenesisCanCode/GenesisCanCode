@@ -1,4 +1,4 @@
-git remote add origin https://github.com/GenesisCanCode/gun-building.git
+git remote add origin https://github.com/GenesisCanCode/___.git
 
 git branch -M main
 
