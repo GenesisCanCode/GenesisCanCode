@@ -1,4 +1,4 @@
-git remote add origin https://github.com/GenesisCanCode/___.git
+git remote add origin https://github.com/GenesisCanCode/bell-game.git
 
 git branch -M main
 
